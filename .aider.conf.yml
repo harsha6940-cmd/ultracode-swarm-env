@@ -1,0 +1,6 @@
+map-tokens: 32768
+map-multiplier-no-files: 8
+yes-always: true
+no-show-model-warnings: true
+model-settings-file: "C:/Users/Ganeshkumar/aider.model.settings.yml"
+model-metadata-file: "C:/Users/Ganeshkumar/aider.model.metadata.json"

@@ -1,0 +1,7 @@
+- name: ollama/qwen3-coder:480b-cloud
+  edit_format: whole
+  use_repo_map: true
+  examples_as_sys_msg: true
+  extra_params:
+    temperature: 0.1
+    top_p: 0.95
