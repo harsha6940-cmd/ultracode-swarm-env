@@ -4,3 +4,4 @@ yes-always: true
 no-show-model-warnings: true
 model-settings-file: "C:/Users/Ganeshkumar/aider.model.settings.yml"
 model-metadata-file: "C:/Users/Ganeshkumar/aider.model.metadata.json"
+read: ["C:/Users/Ganeshkumar/.aider.conventions.md", "C:/Users/Ganeshkumar/.aider.workflow.md"]
